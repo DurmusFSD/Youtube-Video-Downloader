@@ -1,0 +1,21 @@
+{
+    "name": "Video İndirme Eklentisi",
+    "description": "Video indirici chrome uzantısı",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Video Downloader",
+      "default_icon": {
+        "16": "play.png",
+        "24": "play.png",
+        "32": "play.png"
+      }
+    },
+    "icons": {
+      "128": "play.png",
+      "16": "play.png",
+      "256": "play.png",
+      "48": "play.png"
+    }
+  }
